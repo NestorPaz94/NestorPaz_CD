@@ -5,6 +5,6 @@
 
 ## [Ejercicio de base de datos](https://github.com/ReneSRuiz/Mineria_de_datos/blob/ce512eb13a94d30916cef83a8dbd046a77418ab7/Equipo_11-Ejercicio%20base%20de%20datos.pdf)
 
-##[Limpieza de Datos](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Ej_Limpieza_11.ipynb)
+## [Limpieza de Datos](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Ej_Limpieza_11.ipynb)
 
-##[Avance 1 del pia](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Avance1_PIA_Equipo_11.ipynb)
+## [Avance 1 del pia](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Avance1_PIA_Equipo_11.ipynb)
