@@ -8,3 +8,5 @@
 ## [Limpieza de Datos](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Ej_Limpieza_11.ipynb)
 
 ## [Avance 1 del pia](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Avance1_PIA_Equipo_11.ipynb)
+
+## [Que no se coman a tu rey](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Que%20no%20se%20coman%20a%20tu%20rey.pdf)
